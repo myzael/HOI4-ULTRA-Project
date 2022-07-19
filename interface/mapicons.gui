@@ -2361,9 +2361,11 @@ guiTypes = {
 		iconType ={
 			name ="supply_hub_overlay_motorization"
 			spriteType = "GFX_motorized_explicit_implicit_strip"
-			position = { x = -10 y = -16 }
+			# position = { x = -10 y = -16 }
+			position = { x = -5 y = -40 }
 			orientation = center
 			alwaystransparent = yes
+			scale = 2
 		}
 
 		iconType ={
