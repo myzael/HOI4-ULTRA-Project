@@ -82,7 +82,7 @@ guiTypes = {
 			name = "steel_refinery_open_text"
 			position = { x=@TXT_COL1 y=@TXT_ROW1 }
 			font = "hoi_20b"
-			text = "[?THIS.building_level@steel_refinery]"
+			text = "[free_slots_text]"
 			maxWidth = @TXT_MAX_WIDTH
 			maxHeight = @TXT_MAX_HEIGHT
 			format = center
