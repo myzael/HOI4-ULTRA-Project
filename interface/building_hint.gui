@@ -42,10 +42,10 @@ guiTypes = {
 		}
 		
 		instantTextboxType = {
-			name = "nic_hint_text"
+			name = "inf_hint_text"
 			position = { x=@TXT_X y=@TXT_Y3 }
 			font = "hoi_16mbs"
-			text = "[nic_building_hint_text]"
+			text = "[inf_building_hint_text]"
 			maxWidth = 28
 			maxHeight = 28
 			format = center
@@ -53,10 +53,10 @@ guiTypes = {
 		}
 		
 		instantTextboxType = {
-			name = "inf_hint_text"
+			name = "nic_hint_text"
 			position = { x=@TXT_X y=@TXT_Y4 }
 			font = "hoi_16mbs"
-			text = "[inf_building_hint_text]"
+			text = "[nic_building_hint_text]"
 			maxWidth = 28
 			maxHeight = 28
 			format = center
@@ -74,13 +74,13 @@ guiTypes = {
 		}
 		
 		iconType = {
-			name = "nic_hint_icon"
-			position = { x=@ICON_X y=@ICON_Y3 }
+			name = "inf_hint_icon"
+			position = { x=12 y=@ICON_Y3 }
 		}
 		
 		iconType = {
-			name = "inf_hint_icon"
-			position = { x=12 y=@ICON_Y4 }
+			name = "nic_hint_icon"
+			position = { x=@ICON_X y=@ICON_Y4 }
 		}
 	}
 }

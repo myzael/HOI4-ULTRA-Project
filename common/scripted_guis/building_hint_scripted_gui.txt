@@ -27,6 +27,38 @@ scripted_gui = {
 			}	
 		}
 
+		triggers = {
+			background_visible = {
+				any_hint_calc = yes
+			}
+			cic_hint_text_visible = {
+				any_hint_calc = yes
+			}
+			mic_hint_text_visible = {
+				any_hint_calc = yes
+			}
+			inf_hint_text_visible = {
+				any_hint_calc = yes
+			}
+			cic_hint_icon_visible = {
+				any_hint_calc = yes
+			}
+			mic_hint_icon_visible = {
+				any_hint_calc = yes
+			}
+			inf_hint_icon_visible = {
+				any_hint_calc = yes
+			}
+			nic_hint_text_visible = {
+				is_coastal = yes
+				any_hint_calc = yes
+			}
+			nic_hint_icon_visible = {
+				is_coastal = yes
+				any_hint_calc = yes
+			}
+		}
+
 		ai_enabled = {
 			always = no
 		}

@@ -173,3 +173,15 @@ inf_days_calc = {
 		compare = greater_than_or_equals	
 	}
 }
+
+any_hint_calc = {
+	OR = {
+		cic_days_calc = yes
+		mic_days_calc = yes
+		if = {
+			limit = { is_coastal = yes }
+			nic_days_calc = yes
+		}
+		inf_days_calc = yes
+	}
+}
