@@ -172,18 +172,6 @@
 	SpriteType = { name = "GFX_USA_anti_air_4_medium" texturefile = "gfx/interface/technologies/AA_2_allies.dds" }
 	SpriteType = { name = "GFX_USA_heavy_anti_air_1_medium" texturefile = "gfx/interface/technologies/AA_3_allies.dds" }
 	SpriteType = { name = "GFX_USA_heavy_anti_air_2_medium" texturefile = "gfx/interface/technologies/AA_3_allies.dds" }
-
-	SpriteType = { name = "GFX_artillery_upgrade_1_medium" texturefile = "gfx/interface/technologies/artillery1.dds" }
-	SpriteType = { name = "GFX_artillery_upgrade_2_medium" texturefile = "gfx/interface/technologies/artillery2.dds" }
-	SpriteType = { name = "GFX_artillery_upgrade_3_medium" texturefile = "gfx/interface/technologies/artillery3.dds" }
-	SpriteType = { name = "GFX_artillery_upgrade_4_medium" texturefile = "gfx/interface/technologies/artillery5.dds" }
-	SpriteType = { name = "GFX_rocket_upgrade_1_medium" texturefile = "gfx/interface/technologies/rocket_artillery2.dds" }
-	SpriteType = { name = "GFX_rocket_upgrade_2_medium" texturefile = "gfx/interface/technologies/rocket_artillery3.dds" }
-	SpriteType = { name = "GFX_rocket_upgrade_3_medium" texturefile = "gfx/interface/technologies/rocket_artillery4.dds" }
-	SpriteType = { name = "GFX_anti_tank_upgrade_1_medium" texturefile = "gfx/interface/technologies/antitank1.dds" }
-	SpriteType = { name = "GFX_anti_tank_upgrade_2_medium" texturefile = "gfx/interface/technologies/antitank2.dds" }
-	SpriteType = { name = "GFX_anti_tank_upgrade_3_medium" texturefile = "gfx/interface/technologies/antitank1.dds" }
-	SpriteType = { name = "GFX_anti_tank_upgrade_4_medium" texturefile = "gfx/interface/technologies/antitank2.dds" }
 }	 
 
 	
